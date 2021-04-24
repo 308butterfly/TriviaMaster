@@ -39,7 +39,4 @@ describe('LandingComponent', () => {
     expect(fixture.nativeElement.querySelector('[data-test="logIn"]').innerText).toEqual("Login");
   });
 
-  
-
-
 });
